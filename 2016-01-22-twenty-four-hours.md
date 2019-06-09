@@ -1,16 +1,7 @@
----
-
-layout: post
-title:  二十四小时肌体
-categories: Contribute
-description: 生活感悟
-keywords: 感悟
-
----
-> 作者：LW
+<h1 style="text-align:center">二十四小时</h1>
 
 
-![](/images/contribute/C02.jpg)
+![](/blog/C02.jpg)
 
 萍水相逢作为一种日常，相遇意义大多超于表象。
 
@@ -48,4 +39,4 @@ keywords: 感悟
 ***
 欢迎关注作者微信公众号：wen805359724 
 
-![](/images/contribute/Public-number.bmp)
+![](/blog/Public-number.bmp)
