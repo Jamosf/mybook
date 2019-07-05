@@ -8,7 +8,7 @@ sleep 1
 #push to master
 git add .
 git commit -m "xxx"
-git push origin master
+git push -f origin master
 
 sleep 1
 
@@ -17,4 +17,4 @@ cp -rf _book/* ../mybook-gh-pages/
 cd ../mybook-gh-pages/
 git add .
 git commit -m "xxx"
-git push origin gh-pages
+git push -f origin gh-pages
