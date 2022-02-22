@@ -12,8 +12,9 @@ git push -f origin master
 
 sleep 1
 
-git subtree push --prefix=_book origin gh-pages
 #push to gh-pages
+git subtree push --prefix=_book origin gh-pages
+
 # cp -rf _book/* ../mybook-gh-pages/
 # cd ../mybook-gh-pages/
 # git add .
